@@ -106,7 +106,7 @@ p {
 
 #navbar.navbar--dark {
   background-color: var(--color-purple);
-  padding: 5px;
+  padding: 0px;
 }
 
 .nav__logo {
